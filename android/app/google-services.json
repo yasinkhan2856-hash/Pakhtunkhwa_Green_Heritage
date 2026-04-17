@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "152778927846",
+    "project_id": "flora-kpk",
+    "storage_bucket": "flora-kpk.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:152778927846:android:b795da7dc69c5e46a61527",
+        "android_client_info": {
+          "package_name": "com.example.waleed"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_7Hi5Ljatc_ZHAgQkc-_dZXo5yC4iLu8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
